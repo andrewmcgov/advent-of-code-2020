@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/2020/day/1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
